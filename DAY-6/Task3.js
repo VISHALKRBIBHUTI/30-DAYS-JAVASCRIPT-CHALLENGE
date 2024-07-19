@@ -7,6 +7,7 @@ console.log("original Array :");
 for(let i=0;i<array.length;i++){
     console.log(array[i])
 }
+
 array.pop()
 
 console.log("After Pop ")
